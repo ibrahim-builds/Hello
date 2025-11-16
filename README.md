@@ -1,2 +1,3 @@
 # Hello
 My first repository
+My name is Ibrahim Toriola, I am happy to be in this phase of my life, getting back into the tech field is something i have always looked forward to and I am grateful ffor this opportunity. I have come a long way in life, life has been rough so i am not taking this opportunity for granted. Please read this before you proceed...
